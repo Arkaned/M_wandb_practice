@@ -1,2 +1,5 @@
-# ignore virtual environment
+# ignore virtual environment folder
 .venv/
+
+# Ignore weights and biases folder
+wandb/
